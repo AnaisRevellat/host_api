@@ -1,0 +1,92 @@
+ [
+    {
+      "id": 1,
+      "name": "Tropical Bliss",
+      "description": "An exotic blend of tropical fruits for a refreshing experience.",
+      "price": 8.99
+    },
+    {
+      "id": 2,
+      "name": "Berry Burst",
+      "description": "A delightful mix of assorted berries topped with granola and honey.",
+      "price": 9.99
+    },
+    {
+      "id": 3,
+      "name": "Green Goddess",
+      "description": "A nutritious green smoothie bowl packed with spinach, kiwi, and avocado.",
+      "price": 10.49
+    },
+    {
+      "id": 4,
+      "name": "Mango Tango",
+      "description": "A dance of flavors featuring ripe mangoes, banana, and coconut milk.",
+      "price": 8.79
+    },
+    {
+      "id": 5,
+      "name": "Protein Powerhouse",
+      "description": "A protein-rich bowl with Greek yogurt, almonds, and mixed berries.",
+      "price": 11.99
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Bliss",
+      "description": "Indulge in the goodness of chocolate with this decadent smoothie bowl.",
+      "price": 9.29
+    },
+    {
+      "id": 7,
+      "name": "Sunrise Splash",
+      "description": "Start your day with a burst of energy from this vibrant sunrise-inspired bowl.",
+      "price": 10.99
+    },
+    {
+      "id": 8,
+      "name": "Peanut Butter Paradise",
+      "description": "Creamy peanut butter blended with banana and oats for a satisfying bowl.",
+      "price": 12.49
+    },
+    {
+      "id": 9,
+      "name": "Citrus Crush",
+      "description": "A zesty combination of citrus fruits for a refreshing citrusy kick.",
+      "price": 8.59
+    },
+    {
+      "id": 10,
+      "name": "Acai Delight",
+      "description": "Experience the antioxidant-rich goodness of acai in this delightful bowl.",
+      "price": 13.99
+    },
+    {
+      "id": 11,
+      "name": "Strawberry Fields",
+      "description": "A field of sweetness with fresh strawberries, yogurt, and granola.",
+      "price": 9.79
+    },
+    {
+      "id": 12,
+      "name": "Chia Coconut Crunch",
+      "description": "Chia seeds, coconut, and tropical fruits create a crunchy and nutritious bowl.",
+      "price": 11.29
+    },
+    {
+      "id": 13,
+      "name": "Blueberry Bliss",
+      "description": "Get lost in the blissful taste of blueberries in this antioxidant-packed bowl.",
+      "price": 10.89
+    },
+    {
+      "id": 14,
+      "name": "Minty Fresh",
+      "description": "A refreshing blend of mint, cucumber, and green fruits for a cool experience.",
+      "price": 9.99
+    },
+    {
+      "id": 15,
+      "name": "Pineapple Paradise",
+      "description": "Escape to a tropical paradise with pineapple, banana, and coconut water.",
+      "price": 12.79
+    }
+  ]
