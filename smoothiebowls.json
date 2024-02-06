@@ -4,21 +4,21 @@
       "name": "Tropical Bliss",
       "description": "An exotic blend of tropical fruits for a refreshing experience.",
       "price": 8.99,
-      "link": "https://ibb.co/pr6pX0G"
+      "link": "https://i.ibb.co/sJpr3mk/bowl1.jpg"
     },
     {
       "id": 2,
       "name": "Berry Burst",
       "description": "A delightful mix of assorted berries topped with granola and honey.",
       "price": 9.99,
-      "link": "https://ibb.co/gMCTDGp"
+      "link": "https://i.ibb.co/1fxq935/bowl2.jpg"
     },
     {
       "id": 3,
       "name": "Green Goddess",
       "description": "A nutritious green smoothie bowl packed with spinach, kiwi, and avocado.",
       "price": 10.49,
-      "link": "https://ibb.co/v4VcLGj"
+      "link": "https://i.ibb.co/hFLg2jm/bowl3.jpg"
      
     },
     {
@@ -26,14 +26,14 @@
       "name": "Mango Tango",
       "description": "A dance of flavors featuring ripe mangoes, banana, and coconut milk.",
       "price": 8.79,
-      "link": "https://ibb.co/3vSCN4L"
+      "link": "https://i.ibb.co/m0hcqbM/bowl4.jpg"
     },
     {
       "id": 5,
       "name": "Protein Powerhouse",
       "description": "A protein-rich bowl with Greek yogurt, almonds, and mixed berries.",
       "price": 11.99,
-      "link": "https://ibb.co/gFspGFX"
+      "link": "https://i.ibb.co/bRpZxRy/bowl5.jpg"
       
     },
     {
@@ -41,20 +41,20 @@
       "name": "Chocolate Bliss",
       "description": "Indulge in the goodness of chocolate with this decadent smoothie bowl.",
       "price": 9.29,
-      "link": "https://ibb.co/VwrWtmM"
+      "link": "https://i.ibb.co/wc3NRsp/bowl6.jpg"
     },
     {
       "id": 7,
       "name": "Sunrise Splash",
       "description": "Start your day with a burst of energy from this vibrant sunrise-inspired bowl.",
       "price": 10.99,
-      "link": "https://ibb.co/qyhTV2g"
+      "link": "https://i.ibb.co/mDdfgPy/bowl7.jpg"
     },
     {
       "id": 8,
       "name": "Peanut Butter Paradise",
       "description": "Creamy peanut butter blended with banana and oats for a satisfying bowl.",
       "price": 12.49,
-      "link": "https://ibb.co/sV9SDJK"
+      "link": "https://i.ibb.co/VqYyhpg/bowl8.jpg"
     }
   ]
